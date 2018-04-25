@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <color name="colorPrimary">#01fffb</color>
+    <color name="colorPrimaryDark">#0691b8</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    -->
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#0691b8</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorWhite">#0691b8</color>
+    <color name="tabtextcolor">#fff</color>
+    <color name="tabindicatorcolor">#2d2d2d</color>
+    <color name="detailsDocColor">#03A9F4</color>
+    <color name="detailsColor">#f9f6f6</color>
+    <color name="searchDialogResultColor">#123456</color>
+    <color name="searchDialogResultHighlightColor">#ffffff</color>
+</resources>
