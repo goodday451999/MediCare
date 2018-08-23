@@ -1,6 +1,9 @@
 # MediCare
 Medical Search Engine, an Android App-- Semester Project for **DBMS432C**.
 
+<img src="https://i.imgur.com/xHzkXXl.png" width="290" height="600"/>
+
+
 # Team
 * Nilotpal Pramanik (IRM2016501)
 * Anand Singh (IRM2016007)
